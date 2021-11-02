@@ -1,3 +1,6 @@
+# The task
+Full task test is in pdf [Test-task-for-DevOps.pdf](Test-task-for-DevOps.pdf)
+
 ## Build and run
 ```shell
 cargo build
@@ -15,6 +18,7 @@ terraform init
 terraform plan
 terraform apply
 ```
+Now https://sora-test-task.herokuapp.com/
 
 ## Application is reachable on my domain
 https://sora-devops-test.kuvaldini.pro/
